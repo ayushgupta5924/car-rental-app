@@ -1,0 +1,31 @@
+name: rentcar_app
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  
+  carousel_slider: ^1.3.0 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/Crysta front.jpg
+    - assets/Crysta back.jpg
+    - assets/Crysta in.jpg
+    - assets/Crysta in2.jpeg
+    - assets/Crysta stereo.jpg
+    - assets/Defender1.jpg
+    - assets/Defender2.jpg
+    - assets/Defender3.jpg
