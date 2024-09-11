@@ -53,7 +53,7 @@ class LayoutStarts extends StatelessWidget {
   }
 }
 
-class RentButton extends StatelessWidget {
+class RentButton extends  StatelessWidget{
   @override
   Widget build(BuildContext context) {
     return Align(
